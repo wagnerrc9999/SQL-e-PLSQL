@@ -1,0 +1,1 @@
+host rm /u01/app/oracle/oradata/orcl/control01.ctl                                                                                                                                                      
